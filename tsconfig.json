@@ -15,6 +15,20 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "rd-compiler": [
+        "dist/rd-compiler"
+      ],
+      "rd-compiler/*": [
+        "dist/rd-compiler/*"
+      ],
+      "rd-core": [
+        "dist/rd-core"
+      ],
+      "rd-core/*": [
+        "dist/rd-core/*"
+      ]
+    }
   }
 }
