@@ -17,17 +17,17 @@
       "dom"
     ],
     "paths": {
-      "rd-compiler": [
-        "dist/rd-compiler"
+      "@rd/compiler": [
+        "dist/compiler"
       ],
-      "rd-compiler/*": [
-        "dist/rd-compiler/*"
+      "@rd/compiler/*": [
+        "dist/compiler/*"
       ],
-      "rd-core": [
-        "dist/rd-core"
+      "@rd/core": [
+        "dist/core"
       ],
-      "rd-core/*": [
-        "dist/rd-core/*"
+      "@rd/core/*": [
+        "dist/core/*"
       ]
     }
   }
